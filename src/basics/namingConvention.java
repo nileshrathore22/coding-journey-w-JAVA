@@ -13,7 +13,7 @@ class Variables {
         String role= "Senior Software Developer";
         String location= "Seattle";
 
-        System.out.println("Your name is : "+ fullName+ "and age is: "+ age+ ". Your worked at: "+ company +"for the role of : " + role+ "at :"+ location);
+        System.out.println("Your name is : "+ fullName+ " and age is: "+ _age+ ". You worked at: "+ company +" as role of : " + role+ " in :"+ location);
     }
     
 }
