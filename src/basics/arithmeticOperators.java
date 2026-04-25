@@ -77,6 +77,17 @@
         double x=1.5, y=2.5, z=3.5;
         double complexCal= (x+y) * (z-y) / (x+z);
         System.out.println(complexCal);
+
+        int c=10;
+        ++c;
+        System.out.println(c);
+        c++;
+        System.out.println(c);
+        --c;
+        System.out.println(c);
+        c--;
+        System.out.println(c);
+
     }
     
 }
